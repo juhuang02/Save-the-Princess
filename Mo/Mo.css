@@ -27,3 +27,18 @@ body{
     transform: translate(-50%, -50%);
     font-size: 150px;
   }
+.QandA{
+text-align: center;
+color: white;
+font-size:20px;
+display: inline-block;
+}
+.Wrong1{
+color: white;
+}
+.Wrong2{
+color: white;
+}
+.Right1{
+color: white;
+}
