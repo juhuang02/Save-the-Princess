@@ -1,0 +1,19 @@
+body{background-color:white;
+    text-align:center}
+    h1{color:black;
+    text-align:center;
+    font-size:60px}
+    img{height:400px;
+    width:400px;
+    padding:20px}
+    #h10{font-size:40px;
+    text-align:left;
+    margin-left:150px}
+    #h11{font-size:40px;
+    text-align:left;
+    margin-left:625px;
+    margin-top: -70px}
+    #h12{font-size:40px;
+    text-align:left;
+    margin-left:1100px;
+    margin-top: -70px}
