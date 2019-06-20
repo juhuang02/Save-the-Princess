@@ -35,6 +35,8 @@ display: inline-block;
 }
 .Wrong1{
 color: white;
+height: 100px; 
+width:100px; 
 }
 .Wrong2{
 color: white;
