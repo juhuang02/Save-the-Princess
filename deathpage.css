@@ -1,0 +1,57 @@
+h1 {
+    text-align:center;
+    font-family: 'Special Elite', cursive;
+  
+    font-size: 50px;
+  }
+  body {
+    background-color: black;
+    text-align:center;
+  }
+  fd
+  p {
+    color: red;
+    font-size: 40px;
+    font-family: 'Special Elite', cursive;
+  }
+  h3 {
+    font-family: 'Special Elite', cursive;
+    color: red;
+  }
+  #fire1
+  {
+    float:left;
+    width:200px;
+    margin-left: 70px;
+  }
+  #fire2 {
+    float:right;
+    width:200px;
+    margin-right: 70px;
+  }
+  .myButton {
+      -moz-box-shadow:inset 0px 39px 0px -24px #8a1511;
+      -webkit-box-shadow:inset 0px 39px 0px -24px #8a1511;
+      box-shadow:inset 0px 39px 0px -24px #8a1511;
+      background-color:#73201c;
+      -moz-border-radius:17px;
+      -webkit-border-radius:17px;
+      border-radius:17px;
+      display:inline-block;
+      cursor:pointer;
+      color: white;
+      font-family: 'Special Elite', cursive;
+      font-size:22px;
+      font-weight:bold;
+      padding:8px 15px;
+      text-decoration:none;
+      text-shadow:0px 1px 0px #a81512;
+  }
+  .myButton:hover {
+      background-color:#cf1f19;
+  }
+  .myButton:active {
+      position:relative;
+      top:1px;
+  }
+  
