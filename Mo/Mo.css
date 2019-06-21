@@ -30,17 +30,36 @@ body{
 .QandA{
 text-align: center;
 color: white;
-font-size:20px;
-display: inline-block;
+font-size:30px;
+display: inline;
 }
 .Wrong1{
 color: white;
-height: 100px; 
-width:100px; 
+height: 200px; 
+width:200px; 
 }
 .Wrong2{
 color: white;
+height: 200px;
+width: 200px;
 }
 .Right1{
 color: white;
+height: 200px;
+width: 200px;
+}
+.Button{
+  color: black;
+  background-color: grey;
+  font-size: 100px,
+}
+.Right2{
+  color: white;
+  height: 200px;
+  width: 200px;
+}
+.Wrong3{
+  color: white;
+  height: 200px;
+  width: 200px;
 }
